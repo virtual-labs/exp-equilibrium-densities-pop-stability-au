@@ -1,38 +1,75 @@
+
 {
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. The main factors in population growth are:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Predators and disease",
+        "b": "limiting factors",
+        "c": "the reproductive rate and recruitment",
+        "d": "birth rate and death rate"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+ 
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },   
+
+
+    {
+      "question": "2. Population density is the:",
+      "answers": {
+        "a": "number of individuals per area",
+        "b": "total number of individuals of a population",
+        "c": "movement of individuals into an area",
+        "d": "number of births minus the number of deaths in a population"
       },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
+
+
+    
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3. What happens to the prey population when predators are absent?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "goes extinct",
+        "b": "grows exponentially",
+        "c": "grows logistically",
+        "d": "remains in equilibrium"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+ 
+    {
+      "question": "4. Increase in theta value in an area represents:",
+      "answers": {
+        "a": "More number of individuals can be found",
+        "b": "Less number of individuals can be found",
+        "c": "Average number of individuals can be found",
+        "d": "No individuals can be found"
       },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "5. At the carrying capacity, population growth stops. Does this mean that birth and death rates equal to zero?",
+      "answers": {
+        "a": "Yes",
+        "b": "No"
+        
+      },
+     
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
