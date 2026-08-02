@@ -3,41 +3,41 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. ",
+      "question": "1. Increasing predator efficiency generally causes:",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Higher prey equilibrium density and greater stability.",
+        "b": "Lower predator density and greater stability.",
+        "c": "Higher predator equilibrium density and reduced population stability.",
+        "d": "No change in predator or prey populations."
       },
  
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },   
 
 
     {
-      "question": "2. :",
+      "question": "2. Which mathematical model is used in this experiment to study the effect of predator efficiency on population stability?",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Exponential Growth Model",
+        "b": "Nicholson–Bailey Model",
+        "c": "Hardy–Weinberg Model",
+        "d": "Lotka–Volterra Predator–Prey Model"
       },
       
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
 
 
     
     {
-      "question": "3.  ",
+      "question": "3. In the simulator, which parameter is varied to investigate the effect of predator efficiency on equilibrium densities?",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Carrying capacity (K)",
+        "b": "Encounters resulting in prey kill (predator efficiency, a)",
+        "c": "Predator death rate (d)",
+        "d": "Prey growth rate (r)"
       },
       
       "correctAnswer": "b",
@@ -47,30 +47,30 @@
 
  
     {
-      "question": "4. :",
+      "question": "4. According to the theory, the predator–prey system becomes most stable when:",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Carrying capacity is zero.",
+        "b": "Predator and prey populations are equal.",
+        "c": "Predator efficiency is very high.",
+        "d": "Predator efficiency is very low."
       },
       
-      "correctAnswer": "b",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
 
 
 
     {
-      "question": "5. ",
+      "question": "5. What does the carrying capacity (K) represent in the logistic growth model?",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The maximum number of individuals the environment can sustainably support",
+        "b": "The maximum number of predators that can hunt simultaneously",
+        "c": "The minimum population size required for survival",
+        "d": "The predator efficiency"
       },
      
-      "correctAnswer": "b",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
